@@ -63,6 +63,7 @@ Do you like Apache Maven? Then [donate back to the ASF](https://www.apache.org/f
 
 Quick Build
 -------
+We need to build a new build on today's date which is 08/13/2022 please.
 If you want to bootstrap Maven, you'll need:
 - Java 8+
 - Maven 3.0.5 or later
